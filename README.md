@@ -9,6 +9,7 @@ This project is simple Project which is display crypto tracking data.
 ## Technologies
 Project is created with:
 * React js
+* React Hooks
 * [ Crypto Api from ](https://www.coingecko.com/en/api/documentation)
 
 	
